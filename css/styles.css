@@ -146,6 +146,7 @@ text-align: center;
 
 .footer{
     background: var(--background-dark-color);
+    font-family: 'Raleway';
 }
 .footer-logo{
 font-weight: 700;
